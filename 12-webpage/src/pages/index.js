@@ -1,0 +1,5 @@
+export * from './AboutPage'
+export * from './FooterPage'
+export * from './Proyectos'
+export * from './Tecnologia'
+export * from './HomePage'
